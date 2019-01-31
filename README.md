@@ -1,2 +1,2 @@
-# yp-gf-coupons
+# hyp-gf-coupons
 Hypericum GF Coupons
