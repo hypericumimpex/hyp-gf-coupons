@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: HYP Gravity Forms Coupons Add-On
+Plugin Name: HYP Forms Cupoane
 Plugin URI: https://github.com/hypericumimpex/hyp-gf-coupons/
-Description: Enables Gravity Forms administrators to create coupon codes that can be applied to products, services or subscriptions when used in conjunction with a payment add-on such as PayPal and Authorize.net
+Description: Permite adaugarea integrarea cupoanelor in formulare.
 Version: 2.8.3
 Author: rocketgenius
 Author URI: https://github.com/hypericumimpex/
